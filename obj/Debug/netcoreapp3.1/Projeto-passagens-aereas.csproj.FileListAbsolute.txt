@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto-passagens-aereas.exe
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto-passagens-aereas.deps.json
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto-passagens-aereas.runtimeconfig.json
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto-passagens-aereas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto-passagens-aereas.dll
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\bin\Debug\netcoreapp3.1\Projeto-passagens-aereas.pdb
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.AssemblyInfo.cs
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.dll
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.pdb
+C:\Users\fic\Desktop\Andre\Projeto-passagens-aereas\obj\Debug\netcoreapp3.1\Projeto-passagens-aereas.genruntimeconfig.cache
