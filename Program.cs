@@ -49,12 +49,12 @@ namespace Projeto_passagens_aereas
                         if(contador < 5){
                             Console.WriteLine($"Digite o nome do {contador+1} º passageiro");
                             nomes[contador] = Console.ReadLine();
-                            // Console.WriteLine($"Digite a origem do {contador +1}º passageiro");
-                            // nomes[contador] = Console.ReadLine();
-                            // Console.WriteLine($"Digite o destino do {contador +1}º passageiro");
-                            // nomes[contador] = Console.ReadLine();
-                            // Console.WriteLine($"Digite a data do {contador +1}º passageiro");
-                            // nomes[contador] = Console.ReadLine();
+                            Console.WriteLine($"Digite a origem do {contador +1}º passageiro");
+                            nomes[contador] = Console.ReadLine();
+                            Console.WriteLine($"Digite o destino do {contador +1}º passageiro");
+                            nomes[contador] = Console.ReadLine();
+                            Console.WriteLine($"Digite a data do {contador +1}º passageiro");
+                            nomes[contador] = Console.ReadLine();
                             contador++;
                         }else{
                             Console.WriteLine("Limite excedido de passagens");
